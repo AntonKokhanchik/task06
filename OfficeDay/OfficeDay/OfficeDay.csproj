@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DE41F89A-2C9A-46E6-BDC2-FA8142DC115C}</ProjectGuid>
+    <ProjectGuid>{910E9B04-675B-4103-8E99-20AFD8B5C478}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>OfficeDay</RootNamespace>
@@ -41,6 +41,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\ActionEventArg.cs" />
+    <Compile Include="Classes\Monitor.cs" />
+    <Compile Include="Classes\Office.cs" />
+    <Compile Include="Classes\Person.cs" />
+    <Compile Include="Classes\Scheduler.cs" />
+    <Compile Include="Interfaces\IOffice.cs" />
+    <Compile Include="Interfaces\ISchedulerListener.cs" />
+    <Compile Include="Interfaces\IScheduler.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

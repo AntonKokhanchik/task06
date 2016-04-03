@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeDay", "OfficeDay\OfficeDay.csproj", "{DE41F89A-2C9A-46E6-BDC2-FA8142DC115C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeDay", "OfficeDay\OfficeDay.csproj", "{910E9B04-675B-4103-8E99-20AFD8B5C478}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DE41F89A-2C9A-46E6-BDC2-FA8142DC115C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DE41F89A-2C9A-46E6-BDC2-FA8142DC115C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DE41F89A-2C9A-46E6-BDC2-FA8142DC115C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DE41F89A-2C9A-46E6-BDC2-FA8142DC115C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{910E9B04-675B-4103-8E99-20AFD8B5C478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910E9B04-675B-4103-8E99-20AFD8B5C478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910E9B04-675B-4103-8E99-20AFD8B5C478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910E9B04-675B-4103-8E99-20AFD8B5C478}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
